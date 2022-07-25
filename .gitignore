@@ -3,6 +3,5 @@
 **/__pycache__
 .vscode
 .cache
-client.txt
 Music_recommander.ipynb
 User_input.ipynb
