@@ -1,0 +1,8 @@
+**/.DS_Store
+**/*.ipynb_checkpoints/
+**/__pycache__
+.vscode
+.cache
+client.txt
+Music_recommander.ipynb
+User_input.ipynb
